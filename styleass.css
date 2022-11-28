@@ -1,0 +1,71 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family:sans-serif;
+}
+
+body{
+    background-image: url('https://www.xmple.com/wallpaper/brown-linear-gradient-1920x1080-c2-ffdead-d2b48c-a-300-f-14.svg');
+    background-size : cover;
+    background-repeat:  no-repeat;
+    height:100vh;
+    
+}
+.sign-up-box{
+    top:25%;
+    left:15%;
+    position:absolute;
+    padding: 60px 40px;
+    width:600px;
+    text-align:center;
+    background-image:url('https://wallpaperaccess.com/full/124378.jpg')
+
+}
+.sg{
+    text-transform: capitalize;
+    color: #8b1763;
+}
+.google{
+    text-transform: capitalize;
+    
+   
+    background: #fdd5d5;
+    align-items: center;
+  
+   
+}
+
+.create-act{
+    text-transform: capitalize;
+    color:rgb(242, 211, 173);
+}
+.flex-cont{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.regis{
+    padding: 10px 50px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    background-color: #f76a6a;
+    border: none;
+    color: white;
+    
+   
+}
+
+.log{
+    padding: 10px 60px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    background-color: #ef28a9;
+    border: none;
+    color: white;
+   
+}
+.or{
+    text-transform: uppercase;
+    color:rgb(246, 241, 236)
+}
+
